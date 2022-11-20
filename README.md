@@ -1,2 +1,2 @@
-# PythonApps
- repository for various python apps
+# PythonApps  
+ A repository for various python apps
